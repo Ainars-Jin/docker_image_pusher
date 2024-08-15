@@ -1,2 +1,2 @@
 alpine
-ylsislove/siyuan
+ylsislove/siyuan:v3.1.3
