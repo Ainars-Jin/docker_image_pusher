@@ -1,2 +1,2 @@
 alpine
-ylsislove/siyuan:v3.1.3
+python:alpine3.19
