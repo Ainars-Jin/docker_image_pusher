@@ -1,1 +1,1 @@
-ylsislove/siyuan:v3.1.3
+--platform=linux/arm64 ylsislove/siyuan:v3.1.3
